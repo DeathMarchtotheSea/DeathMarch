@@ -70,7 +70,7 @@ Absentee Marches
 ----------------
 Absentee Marches are marches undertaken to make up for not being able to attend the most recent official Death March. They must be at least as long as the Death March in miles and must occur during the summer. Absentee Marches are based on trust, but must be approved by the Grand Marshal. Approved Absentee Marches are worth two (2) rank points, restore one to the list of ranking members, and confer any titles earned for Punishments undertaken on the Absentee March. Anyone who attends an Absentee March for support cannot be stripped of titles for not performing punishments earned on an official March, but it is considered bad form to do so.
 
-Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. You may only earn points from an Absentee March if haven't already earned points from any participation on the previous march, except for members who failed to complete the Official March who may go on an Absentee March that year to receive two (2) points for marching.
+Members may only earn points from an Absentee March if they haven't already earned points from any participation on the previous Official March. However, Members who failed to complete the Official March may go on an Absentee March. Upon completion, they receive an extra (1) point to make two (2) points total for marching.
 
 One who has never been on a Death March can attend as an observer, however this March does not confer any points or ranks.
 
