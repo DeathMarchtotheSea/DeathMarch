@@ -92,7 +92,7 @@ The Grand Marshal of the Death March, praise be unto him, is the leader of the D
 
 This title is given to whoever may have the highest rank.
 
-If no one completes the Death March, the Chancellor of Timekeeping becomes the Grand Marshal.
+If no one completes the Death March, the Chancellor of Timekeeping becomes the Grand Marshal for the next year.
 
 Lieutenant Marshal
 ------------------
