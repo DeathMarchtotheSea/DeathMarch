@@ -92,6 +92,8 @@ The Grand Marshal of the Death March, praise be unto him, is the leader of the D
 
 This title is given to whoever may have the highest rank.
 
+If no one completes the Death March, the Chancellor of Timekeeping becomes the Grand Marshal.
+
 Lieutenant Marshal
 ------------------
 Lieutenant Marshal is responsible for all the mundane details like recording the bylaws, inviting people, and securing transportation.
@@ -254,3 +256,4 @@ Current Achievements
  2. Four (4) of the team members must finish the march together, as in no one may register a finishing time between these four (4) members
  3. All team members must complete the same four (4) punishments
  4. Four (4) members of the team must complete four (4) unique achievements that are new to that member
++ Dr. Scholl - Share medication with 6 other marchers.
