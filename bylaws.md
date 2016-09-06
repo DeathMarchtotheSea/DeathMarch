@@ -257,3 +257,5 @@ Current Achievements
  3. All team members must complete the same four (4) punishments
  4. Four (4) members of the team must complete four (4) unique achievements that are new to that member
 + Dr. Scholl - Share medication with 6 other marchers.
++ Great Balls - take pictures of 6 Pokemon on the Death March.
++ Million Dollar Mom - complete the death march with some professionally installed artificial implant for medical necessity.
