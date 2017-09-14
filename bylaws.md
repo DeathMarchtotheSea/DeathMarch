@@ -64,6 +64,10 @@ Drivers
 -------
 Anyone who helps shuttle people between the Palisades and Reseda is entitled to one (1) extra rank point for their dedication to the cause.
 
+Secret Word
+-----------
+Anyone who says the secret word during the March as determined by the Officers before the March is entitled to one fourth (1/4) extra rank points.
+
 Seasonal Marches
 ----------------
 In an effort to keep interest in the Death March up and to recruit new members, marches shall be held every season.  As the Grand Marshal, praise be unto him, is generally in charge of Summer’s Death March, each full Officer must organize a March for each other season.  Which officer is in charge of which season shall be determined by the Grand Marshal, praise be unto him, at the end of the Banquet. 
@@ -78,9 +82,15 @@ Absentee Marches are marches undertaken to make up for not being able to attend 
 
 Members who earned rank points on the Official March for the year cannot earn any more points for merely attending an absentee march. You may only earn points from an Absentee March if haven't already earned points from any participation on the previous march, except for members who failed to complete the Official March who may go on an Absentee March that year to receive two (2) points for marching.
 
+Make-up Marches
+---------------
+Make-up Marches are marches undertaken to make up for not being able to attend previous Death Marches. They must be at least as long as the Death March in miles. Make-up Marches are based on trust, but must be approved by the Grand Marshal, praise be unto him.  Approved Make-up Marches are worth one (1) rank point, earned as if it was earned the year of the oldest missed Death March with full decay applied. One may only perform one Make-up March for each missed Offical Death March.
+
 Point Decay
 -----------
 Rank points decay exponentially at a rate of -0.25. Decay calculations are calculated by year, so the date during the year at which one does a Death March or Absentee March does not enter into the calculation.
+
+
 
 Officers
 ========
@@ -170,17 +180,17 @@ Creativity is encouraged in personal punishment title choice, but no word used i
 
 Alcohol Consumption Punishment
 ------------------------------
-The Protectorship of a country is the title received by consuming alcohol at some point on the march. A member of a team may alternately choose a municipality of their team captain’s country. A municipality may only be protected by one marcher. If one loses this title, the now unprotected municipality may then be assumed by another attendee. If two people choose the same unprotected municipality in the same year, it goes to the person who has the most rank points.
-
-Tommy's Chili Punishment
-------------------------
-Honorifics such as Sir, Doctor, Captain, Sama, Lady, and Master, among others, are applied based on the consumption of a chili-topped food product from Tommy's.
+Honorifics such as Sir, Doctor, Captain, Sama, Lady, and Master, among others, are applied based on the consumption of alcohol at some point on the march.
 
 Creativity is encouraged in honorific choice, but no word used in an official officer’s title may be used as an honorific.  
 
 Flagbearing Punishment
 ----------------------
 Anyone who brings a large flag approved by the Grand Marshal, praise be unto him, and carries it for the duration of the March shall earn the **Flagbearer**, **Bannerman**, **Bannerwoman**, or **Bannerperson** title.  
+
+Tommy's Chili Punishment
+------------------------
+The Protectorship of a country is the title received by consuming a chili-topped food product from Tommy's. A member of a team may alternately choose a municipality of their team captain’s country. A municipality may only be protected by one marcher. If one loses this title, the now unprotected municipality may then be assumed by another attendee. If two people choose the same unprotected municipality in the same year, it goes to the person who has the most rank points.
 
 Vegetarianism Punishment
 ------------------------
@@ -245,7 +255,7 @@ Current Achievements
 + Capital Zero - Finish your first Death March.
 + Speed of Light - Complete the Death March in under 4 hours.
 + Somnambulist - Get no sleep the night previous to the Death March.
-+ Metrosexual - Take public transit to and from the Death March.
++ Metrosexual - Take public transit or use a ride sharing service to or from the Death March.
 + Fancy Pants - Wear formal attire for the entirety of the March.
 + Triathlete - Ride a bicycle to the beginning of the Death March, finish the Death March, and then dunk yourself in the Ocean at the end.
 + Lone Wolf - Complete the Death March without a team.
@@ -259,3 +269,4 @@ Current Achievements
 + Dr. Scholl - Share medication with 6 other marchers.
 + Great Balls - take pictures of 6 Pokemon on the Death March.
 + Million Dollar Mom - complete the death march with some professionally installed artificial implant for medical necessity.
++ Ranger Danger - give advice or assitance to a stranger during the March. No one on the March can consider another marcher a stranger.
