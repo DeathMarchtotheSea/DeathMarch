@@ -269,4 +269,4 @@ Current Achievements
 + Dr. Scholl - Share medication with 6 other marchers.
 + Great Balls - take pictures of 6 Pokemon on the Death March.
 + Million Dollar Mom - complete the death march with some professionally installed artificial implant for medical necessity.
-+ Ranger Danger - give advice or assitance to a stranger during the March. No one on the March can consider another marcher a stranger.
++ Ranger Danger - give advice or assistance to a stranger during the March. No one on the March can consider another marcher a stranger.
