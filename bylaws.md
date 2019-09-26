@@ -24,6 +24,8 @@ The Death March will be held yearly until someone actually dies on the March.
 
 Each Death March begins with a speech from the Grand Marshal, praise be unto him, and ends at sunset. 
 
+An official Death March Year is from Opening Ceremonies to Opening Ceremonies.
+
 Date
 ====
 The March must be held in the summer.
